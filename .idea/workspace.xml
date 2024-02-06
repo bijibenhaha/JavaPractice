@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62071a17-811c-4c91-9404-ed2f16dac23e" name="Changes" comment="初始化git项目">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/Test2.java" afterDir="false" />
+    <list default="true" id="62071a17-811c-4c91-9404-ed2f16dac23e" name="Changes" comment="本想把collection复习完 太累了 明天再复习">
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/LinkedListCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/SortBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/SourceOfArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/homework/Home01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/homework/Home02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/homework/Home03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/homework/Home05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/HashMapSource1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/HashTable_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/MapExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/MapFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/MapSource_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/Map_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/Properties_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/map_/TreeMap_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/ApplicationOfHashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/HardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/HashSetIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/HashSetSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/HashSetStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/HashSet_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/SetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/collection_/set_/TreeSet_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/CustomGeneric_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/CustomMethodGenericExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/Generic01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/Generic02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/exercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/generic/exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/junit/JUnit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/collection_/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/collection_/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/collection_/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/collection_/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,32 +56,34 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2bdpQ5GDiyYGfNAnD7o2niqr9hB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/javap",
+    "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="javap" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.collection_.Test1" />
+  <component name="RunManager" selected="JUnit.exercise02.testList">
+    <configuration name="CustomMethodGenericExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.generic.CustomMethodGenericExercise" />
       <module name="javap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.collection_.*" />
+          <option name="PATTERN" value="com.practice.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,24 +91,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.collection_.Test2" />
+    <configuration name="JUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.junit.JUnit" />
       <module name="javap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.collection_.*" />
+          <option name="PATTERN" value="com.practice.junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.generic.exercise02" />
+      <module name="javap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit.h1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.junit.JUnit" />
+      <option name="METHOD_NAME" value="h1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise02.testList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.generic" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.generic.exercise02" />
+      <option name="METHOD_NAME" value="testList" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.exercise02.testList" />
+        <item itemvalue="Application.exercise02" />
+        <item itemvalue="JUnit.JUnit.h1" />
+        <item itemvalue="Application.JUnit" />
+        <item itemvalue="Application.CustomMethodGenericExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +167,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706554791501</updated>
-      <workItem from="1706554792959" duration="3647000" />
+      <workItem from="1706554792959" duration="53007000" />
+      <workItem from="1706888230920" duration="25368000" />
+      <workItem from="1707037109041" duration="1792000" />
+      <workItem from="1707064217733" duration="2287000" />
+      <workItem from="1707129330072" duration="2926000" />
+      <workItem from="1707142332182" duration="14137000" />
     </task>
     <task id="LOCAL-00001" summary="初始化git项目">
       <created>1706554984164</created>
@@ -97,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706554984164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="本想把collection复习完 太累了 明天再复习">
+      <created>1706561859440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706561859440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +207,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化git项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化git项目" />
+    <MESSAGE value="本想把collection复习完 太累了 明天再复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="本想把collection复习完 太累了 明天再复习" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/collection_/map_/TreeMap_.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javap$ApplicationOfHashset__1_.ic" NAME="ApplicationOfHashset (1) Coverage Results" MODIFIED="1706870039823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.practice.collection_.set_.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javap$HardApplication.ic" NAME="HardApplication Coverage Results" MODIFIED="1706868235743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.practice.collection_.set_.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/javap$ApplicationOfHashset.ic" NAME="ApplicationOfHashset Coverage Results" MODIFIED="1706869950020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.practice.collection_.set_.*</FILTER>
+    </SUITE>
   </component>
 </project>

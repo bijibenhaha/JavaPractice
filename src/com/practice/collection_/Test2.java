@@ -39,12 +39,18 @@ public class Test2 {
         System.out.println(list.containsAll(list2));//T
 //        removeAll：删除多个元素
         list.add("聊斋");
-        list.removeAll(list2);
-        System.out.println("list=" + list);//[聊斋]
-        System.out.println("获取第一个元素：" + list.get(0));
-        list.set(0,"你好");
-        System.out.println("修改后的list: " + list);
-
+        System.out.println(list);
+        list.add(1);
+        list.add(2);
+        list.add(3);
+        System.out.println(list);
+        System.out.println(list.subList(1,3));
+//        list.removeAll(list2);
+//        System.out.println("list=" + list);//[聊斋]
+//        System.out.println("获取第一个元素：" + list.get(0));
+//        // 修改元素
+//        list.set(0,"你好");
+//        System.out.println("修改后的list: " + list);
 
     }
 }
